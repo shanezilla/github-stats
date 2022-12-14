@@ -104,7 +104,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #F05138;width: 73.535%;" class="progress-item"></span><span style="background-color: #438eff;width: 16.187%;" class="progress-item"></span><span style="background-color: #00B4AB;width: 10.251%;" class="progress-item"></span><span style="background-color: #A97BFF;width: 0.027%;" class="progress-item"></span>
+<span style="background-color: #F05138;width: 74.085%;" class="progress-item"></span><span style="background-color: #438eff;width: 15.850%;" class="progress-item"></span><span style="background-color: #00B4AB;width: 10.038%;" class="progress-item"></span><span style="background-color: #A97BFF;width: 0.026%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -116,7 +116,7 @@ div.ellipsis {
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Swift</span>
-<span class="percent">73.53%</span>
+<span class="percent">74.09%</span>
 </li>
 
 
@@ -125,7 +125,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Objective-C</span>
-<span class="percent">16.19%</span>
+<span class="percent">15.85%</span>
 </li>
 
 
@@ -134,7 +134,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Dart</span>
-<span class="percent">10.25%</span>
+<span class="percent">10.04%</span>
 </li>
 
 
